@@ -1,5 +1,4 @@
-# My-repository
-Hi there, I'm Oukasha 👋
+# Hi there, I'm Oukasha 👋
 I'm a 2nd-semester Computer Science student passionate about technology, programming, and problem-solving. Currently, I'm exploring subjects like Electronics, C++ Programming, and Calculus 🖥️📚. I'm excited to learn new skills and apply them to create meaningful projects.
 
 🚀 What I'm Learning Right Now:
